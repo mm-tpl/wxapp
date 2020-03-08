@@ -180,8 +180,7 @@
 						"sibling",
 						"parent"
 					]
-				],
-				"newlines-between": "never"
+				]
 			}
 		],
 		"@typescript-eslint/consistent-type-assertions": [
