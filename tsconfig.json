@@ -50,7 +50,7 @@
 		"noFallthroughCasesInSwitch": true,
 		"noResolve": false,
 		"noUnusedLocals": true,
-		"noUnusedParameters": true,
+		"noUnusedParameters": false,
 		"paths": {},
 		"preserveConstEnums": false,
 		"pretty": true,
