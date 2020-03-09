@@ -117,7 +117,7 @@
 		"prefer-template": "error",
 		"quotes": [
 			"error",
-			"single",
+			"backtick",
 			{
 				"avoidEscape": true
 			}
