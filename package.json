@@ -1,5 +1,5 @@
 {
-	"name": "@mmstudio/base",
+	"name": "@mmstudio/prjno",
 	"version": "1.0.0",
 	"description": "$desc",
 	"scripts": {
@@ -14,9 +14,6 @@
 		"type": "git",
 		"url": "https://gitee.com/mmstudio/base"
 	},
-	"main": "dist/index.js",
-	"module": "dist/index.js",
-	"types": "dist/index.d.ts",
 	"keywords": [
 		"mm",
 		"mmstudio",
@@ -25,7 +22,7 @@
 		"插件式",
 		"原子操作",
 		"控件",
-		"框架"
+		"项目"
 	],
 	"author": {
 		"name": "$user",
