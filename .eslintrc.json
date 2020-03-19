@@ -19,9 +19,14 @@
 		"ecmaVersion": 2018,
 		"sourceType": "module",
 		"ecmaFeatures": {
-			"impliedStrict": true
+			"impliedStrict": true,
+			"jsx": true
 		},
-		"project": "tsconfig.json"
+		"project": "tsconfig.json",
+		"extraFileExtensions": [
+			".ts",
+			".tsx"
+		]
 	},
 	"plugins": [
 		"import",
