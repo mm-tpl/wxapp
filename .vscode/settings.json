@@ -1,0 +1,61 @@
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"editor.tabCompletion": "on",
+	"editor.fontSize": 20,
+	"editor.wordWrap": "bounded",
+	"editor.detectIndentation": false,
+	"editor.fontLigatures": true,
+	"editor.renderWhitespace": "all",
+	"editor.codeActionsOnSave": {
+		"source.fixAll.tslint": true
+	},
+	"files.associations": {
+		"*.nools": "javascript",
+		"*.acss": "css",
+		"*.wxss": "css",
+		"*.axml": "html",
+		"*.wxml": "html",
+		"*.tpl": "html"
+	},
+	"files.trimTrailingWhitespace": true,
+	"search.exclude": {
+		"**/.git": true,
+		"**/node_modules": true,
+		"**/bower_components": true
+	},
+	"editor.renderControlCharacters": true,
+	"git.confirmSync": false,
+	"files.autoSave": "onFocusChange",
+	"git.enableSmartCommit": true,
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.showSlider": "always",
+	"explorer.sortOrder": "type",
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"git.autofetch": true,
+	"extensions.ignoreRecommendations": true,
+	"markdown-toc.depthFrom": 2,
+	"files.useExperimentalFileWatcher": true,
+	"zenMode.hideTabs": false,
+	"zenMode.restore": true,
+	"markdown-pdf.executablePath": "/usr/bin/google-chrome",
+	"npm.enableScriptExplorer": true,
+	"markdownlint.config": {
+		"MD007": false,
+		"MD010": false,
+		"MD013": false
+	},
+	"javascript.preferences.quoteStyle": "single",
+	"typescript.preferences.quoteStyle": "single",
+	"typescript.updateImportsOnFileMove.enabled": "never",
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"editor.formatOnType": true,
+	"editor.formatOnSave": true,
+	"breadcrumbs.enabled": true,
+	"todo.embedded.regex": "(?:<!-- *)?(?:#|//|/\\*+|<!--|--) *(todo|fixme|fix|bug|ugly|hack|note|idea|review|debug|optimize|TODO|FIXME|FIX|BUG|UGLY|HACK|NOTE|IDEA|REVIEW|DEBUG|OPTIMIZE)(?:\\([^(]+\\))?:?(?!\\w)(?: *-->| *\\*/|(?= *(?:[^:]//|/\\*+|<!--|@|--))|((?: +[^\n@]*?)(?= *(?:[^:]//|/\\*+|<!--|@|--))|(?: +[^@\n]+)?))",
+	"docthis.includeTypes": false,
+	"editor.insertSpaces": false,
+	"git.alwaysShowStagedChangesResourceGroup": true,
+	"terminal.integrated.scrollback": 9999999999999999999999999999999,
+	"mm.proj.type": "wxapp"
+}
