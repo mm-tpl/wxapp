@@ -5,9 +5,8 @@
 	],
 	"compileOnSave": false,
 	"compilerOptions": {
-		"module": "esnext",
-		"target": "esnext",
-		"jsx": "react",
+		"module": "commonjs",
+		"target": "es5",
 		"noImplicitAny": true,
 		"sourceMap": false,
 		"emitDecoratorMetadata": true,
@@ -62,7 +61,9 @@
 		"suppressImplicitAnyIndexErrors": true,
 		"traceResolution": false,
 		"typeRoots": [],
-		"types": [],
+		"types": [
+			"weixin-app"
+		],
 		"watch": false
 	}
 }

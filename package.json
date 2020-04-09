@@ -46,6 +46,7 @@
 	"devDependencies": {
 		"@mmstudio/awx000002": "1.0.202004011854",
 		"@mmstudio/wxapp": "1.0.202004011848",
+		"@types/weixin-app": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
 		"babel-loader": "latest",
