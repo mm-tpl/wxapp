@@ -1,4 +1,4 @@
-import { host } from '../../../config';
+import { host } from '../../config';
 
 declare const global: { host: string; };
 
