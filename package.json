@@ -43,12 +43,16 @@
 	],
 	"license": "MIT",
 	"dependencies": {
+		"@mmstudio/config": "1.0.202003191017",
+		"@mmstudio/global": "1.0.202003191018",
 		"log4js": "6.2.0"
 	},
 	"devDependencies": {
+		"@babel/core": "latest",
 		"@mmstudio/awx000002": "1.0.202004011854",
 		"@mmstudio/server": "1.0.202003191044",
 		"@mmstudio/wxapp": "1.0.202004011848",
+		"@types/minio": "latest",
 		"@types/weixin-app": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
