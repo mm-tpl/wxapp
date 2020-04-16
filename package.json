@@ -45,6 +45,7 @@
 	"dependencies": {},
 	"devDependencies": {
 		"@mmstudio/awx000002": "1.0.202004011854",
+		"@mmstudio/server": "1.0.202003191044",
 		"@mmstudio/wxapp": "1.0.202004011848",
 		"@types/weixin-app": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",

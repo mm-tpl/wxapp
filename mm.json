@@ -1,13 +1,6 @@
 {
 	"port": 8889,
 	"timeout": 500000,
-	"wx1": {
-		"getopenid": true,
-		"getuserinfo": false,
-		"token": "mmstudio",
-		"appid": "wx7d84eff0fb9683e4",
-		"appsecret": "63d1f587ee735140cbe653822c3f5823"
-	},
 	"acma": 150000,
 	"favicon": "./favicon.ico",
 	"max_file_size": 53687091200,

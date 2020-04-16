@@ -2,7 +2,6 @@
 	"name": "@mmstudio/prjno",
 	"version": "1.0.2018",
 	"description": "$desc",
-	"author": "taoqf",
 	"license": "MIT",
 	"dependencies": {}
 }
