@@ -21,6 +21,7 @@
 		"type": "https+git",
 		"url": "https://github.com/mm-core/base.git"
 	},
+	"homepage": "https://mm-works.github.io",
 	"keywords": [
 		"mm",
 		"mmstudio",
