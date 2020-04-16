@@ -42,7 +42,9 @@
 		}
 	],
 	"license": "MIT",
-	"dependencies": {},
+	"dependencies": {
+		"log4js": "6.2.0"
+	},
 	"devDependencies": {
 		"@mmstudio/awx000002": "1.0.202004011854",
 		"@mmstudio/server": "1.0.202003191044",
