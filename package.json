@@ -43,9 +43,10 @@
 		"log4js": "6.2.0"
 	},
 	"devDependencies": {
+		"@mmstudio/global": "1.0.202004161717",
+		"@types/minio": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
 		"@typescript-eslint/parser": "latest",
-		"@types/minio": "latest",
 		"del-cli": "latest",
 		"eslint": "latest",
 		"eslint-config-prettier": "latest",
