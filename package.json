@@ -48,12 +48,12 @@
 		"@mmstudio/global": "1.0.202004161717",
 		"@mmstudio/schedule": "1.0.202004171021",
 		"@mmstudio/server": "1.0.202004171023",
-		"@types/minio": "7.0.5",
 		"log4js": "6.2.0"
 	},
 	"devDependencies": {
 		"@babel/core": "latest",
 		"@mmstudio/awx000002": "1.0.202004170903",
+		"@mmstudio/global": "1.0.202004161717",
 		"@mmstudio/server": "1.0.202004171023",
 		"@mmstudio/wxapp": "1.0.202004171039",
 		"@types/minio": "latest",
