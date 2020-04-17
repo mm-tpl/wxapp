@@ -44,15 +44,15 @@
 	],
 	"license": "MIT",
 	"dependencies": {
-		"@mmstudio/config": "1.0.202003191017",
-		"@mmstudio/global": "1.0.202003191018",
+		"@mmstudio/config": "1.0.202004161715",
+		"@mmstudio/global": "1.0.202004161717",
 		"log4js": "6.2.0"
 	},
 	"devDependencies": {
 		"@babel/core": "latest",
-		"@mmstudio/awx000002": "1.0.202004011854",
-		"@mmstudio/server": "1.0.202003191044",
-		"@mmstudio/wxapp": "1.0.202004011848",
+		"@mmstudio/awx000002": "1.0.202004170903",
+		"@mmstudio/server": "1.0.202004171023",
+		"@mmstudio/wxapp": "1.0.202004171039",
 		"@types/minio": "latest",
 		"@types/weixin-app": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
