@@ -2,7 +2,6 @@
 	"port": 8889,
 	"timeout": 500000,
 	"acma": 150000,
-	"favicon": "./favicon.ico",
 	"max_file_size": 53687091200,
 	"minio": {
 		"endPoint": "127.0.0.1",
